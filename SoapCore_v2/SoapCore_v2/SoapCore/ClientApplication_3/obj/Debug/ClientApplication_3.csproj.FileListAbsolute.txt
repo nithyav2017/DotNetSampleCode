@@ -1,0 +1,14 @@
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.exe.config
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.exe
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.exe
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.exe
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.exe.config
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.exe
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\bin\Debug\ClientApplication_3.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication_3\obj\Debug\ClientApplication_3.csprojAssemblyReference.cache

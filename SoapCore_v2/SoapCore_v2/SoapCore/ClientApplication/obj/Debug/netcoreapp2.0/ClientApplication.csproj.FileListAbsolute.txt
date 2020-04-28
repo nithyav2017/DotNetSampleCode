@@ -1,0 +1,22 @@
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.runtimeconfig.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.runtimeconfig.dev.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.deps.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.runtimeconfig.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.runtimeconfig.dev.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\bin\Debug\netcoreapp2.0\ClientApplication.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.csprojAssemblyReference.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.AssemblyInfoInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.AssemblyInfo.cs
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ClientApplication\obj\Debug\netcoreapp2.0\ClientApplication.pdb

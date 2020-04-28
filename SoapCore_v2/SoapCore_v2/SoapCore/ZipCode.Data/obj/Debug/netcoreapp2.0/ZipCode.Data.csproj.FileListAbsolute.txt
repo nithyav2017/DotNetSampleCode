@@ -1,0 +1,38 @@
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.deps.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csprojResolveAssemblyReference.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csproj.CoreCompileInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfoInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfo.cs
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csproj.CopyComplete
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.deps.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.csprojAssemblyReference.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfoInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.AssemblyInfo.cs
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\ZipCode.Data\obj\Debug\netcoreapp2.0\ZipCode.Data.pdb

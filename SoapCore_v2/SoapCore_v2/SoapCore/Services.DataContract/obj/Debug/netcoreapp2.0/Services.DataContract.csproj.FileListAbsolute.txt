@@ -1,0 +1,34 @@
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.deps.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfoInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfo.cs
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.deps.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfoInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.AssemblyInfo.cs
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.DataContract\obj\Debug\netcoreapp2.0\Services.DataContract.pdb

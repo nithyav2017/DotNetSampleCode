@@ -1,0 +1,72 @@
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.deps.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.dev.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfoInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfo.cs
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CopyComplete
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.dev.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CopyComplete
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.dev.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CopyComplete
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.deps.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.runtimeconfig.dev.json
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.SelfHost.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csprojAssemblyReference.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfoInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.AssemblyInfo.cs
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.csproj.CopyComplete
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\POC\SoapCore_v2\SoapCore_v2\SoapCore\Services.SelfHost\obj\Debug\netcoreapp2.0\Services.SelfHost.pdb

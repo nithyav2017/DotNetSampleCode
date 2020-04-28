@@ -1,0 +1,54 @@
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.deps.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.dev.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CoreCompileInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfoInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfo.cs
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csprojResolveAssemblyReference.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CopyComplete
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Onnig\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.dev.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CopyComplete
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v1\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.deps.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.runtimeconfig.dev.json
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipLookupService.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\Services.DataContract.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\bin\Debug\netcoreapp2.0\ZipCode.Data.pdb
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csprojResolveAssemblyReference.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CoreCompileInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfoInputs.cache
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.AssemblyInfo.cs
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.csproj.CopyComplete
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.dll
+C:\Users\nithy\Documents\Work\New folder\upwork files\ITSP\SoapCore_v2\SoapCore\ZipLookupService\obj\Debug\netcoreapp2.0\ZipLookupService.pdb

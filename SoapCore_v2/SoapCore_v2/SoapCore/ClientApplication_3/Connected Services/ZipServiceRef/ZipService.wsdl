@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://tempuri.org/" name="ZipService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="GetZipInfo">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="1" name="zip" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetZipInfoResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="1" name="GetZipInfoResult" type="tns:ZipCodeModel" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:complexType name="ZipCodeModel">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="1" name="ZIPCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="City" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="State" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="Abbreviation" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="IZipService_GetZipInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetZipInfo" />
+  </wsdl:message>
+  <wsdl:message name="IZipService_GetZipInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetZipInfoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IZipService">
+    <wsdl:operation name="GetZipInfo">
+      <wsdl:input message="tns:IZipService_GetZipInfo_InputMessage" />
+      <wsdl:output message="tns:IZipService_GetZipInfo_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IZipService" type="tns:IZipService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetZipInfo">
+      <soap:operation soapAction="http://tempuri.org/IZipService/GetZipInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ZipService">
+    <wsdl:port name="BasicHttpBinding_IZipService" binding="tns:BasicHttpBinding_IZipService">
+      <soap:address location="http://localhost/ZipServiceRepXMLSerializer/ZipService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
